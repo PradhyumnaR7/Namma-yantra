@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Namma Yantra Share</string>
+    <string name="app_subtitle">Agriculture Machinery Rental</string>
+    <string name="equipment_list">Nearby Equipment</string>
+    <string name="my_requests">My Bookings</string>
+    <string name="profile">Profile</string>
+    <string name="tractor">Tractor</string>
+    <string name="harvester">Harvester</string>
+    <string name="sprayer">Sprayer</string>
+    <string name="power_tiller">Power Tiller</string>
+    <string name="request_rental">Book Now</string>
+    <string name="hourly_rate">₹%1$.0f/hr</string>
+    <string name="daily_rate">₹%1$.0f/day</string>
+    <string name="distance_km">%1$.1f km</string>
+    <string name="available">Available</string>
+    <string name="booked">Booked</string>
+    <string name="condition_rating">%1$.1f/5 ⭐</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="add_machine">Add Machine</string>
+    <string name="book_now">Book Now</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+</resources>

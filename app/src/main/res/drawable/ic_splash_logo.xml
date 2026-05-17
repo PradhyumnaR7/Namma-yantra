@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-46,0a46,46 0,1 1,92 0a46,46 0,1 1,-92 0" />
+
+    <!-- Tractor body -->
+    <path
+        android:fillColor="#4F5D95"
+        android:pathData="M28,58 L28,50 Q28,46 32,46 L52,46 L58,38 L72,38 Q76,38 76,42 L76,58 Z" />
+
+    <!-- Tractor cab -->
+    <path
+        android:fillColor="#7C89B8"
+        android:pathData="M52,46 L58,38 L72,38 L72,46 Z" />
+
+    <!-- Large rear wheel -->
+    <path
+        android:fillColor="#1F2430"
+        android:pathData="M38,58m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    <path
+        android:fillColor="#6B7280"
+        android:pathData="M38,58m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <path
+        android:fillColor="#1F2430"
+        android:pathData="M38,58m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+
+    <!-- Small front wheel -->
+    <path
+        android:fillColor="#1F2430"
+        android:pathData="M68,58m-7,0a7,7 0,1 1,14 0a7,7 0,1 1,-14 0" />
+    <path
+        android:fillColor="#6B7280"
+        android:pathData="M68,58m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="#1F2430"
+        android:pathData="M68,58m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+
+    <!-- Leaf / growth accent -->
+    <path
+        android:fillColor="#A88B5E"
+        android:pathData="M76,32 Q82,26 88,30 Q84,36 78,36 Q82,30 76,32 Z" />
+    <path
+        android:strokeColor="#A88B5E"
+        android:strokeWidth="1.5"
+        android:pathData="M76,32 Q80,34 82,38"
+        android:fillColor="#00000000" />
+
+    <!-- Exhaust pipe -->
+    <path
+        android:fillColor="#6B7280"
+        android:pathData="M62,38 L62,32 Q62,30 64,30 L66,30 Q68,30 68,32 L68,38 Z" />
+
+</vector>
