@@ -114,11 +114,32 @@ Small farmers often cannot afford expensive agricultural machinery like tractors
 
 ---
 
+#screenshots
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/f6a38f45-14cd-4c87-b66b-efa49939fcb5" />
+
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/65cdde4d-d4f7-4ab3-b080-91093f91a592" />
+
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/6d6ffc8d-451b-4c03-a669-43a9b59150ac" />
+
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b03b1238-d8c6-4b03-b41f-7af767affd6c" />
+
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1e9da60f-0198-46f0-a3e0-8d710eb572a0" />
+
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/433b18f0-213c-400c-8c17-a2086c9add0f" />
+
+---
 # 👨‍💻 Developed By
 
 Pradyumna Padu
 
 ---
+
 
 # 🔗 GitHub Repository
 
